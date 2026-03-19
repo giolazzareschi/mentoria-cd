@@ -8,3 +8,4 @@
 - git remote add origin git@github.com:giolazzareschi/mentoria-cd.git : apontar para onde vai ser conectado (quem é a origin - nuvem)
 - git push -u origin main: de fato enviar
 - git status: ver quais arquivos foram modificados
+- git fetch: atualiza teu ambiente local com a origin e busca novos indices e brancehs
